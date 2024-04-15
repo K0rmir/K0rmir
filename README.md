@@ -5,6 +5,7 @@ I’m a Junior Full Stack Software Developer with a keen interest in back-end te
 - I’m currently exploring; Webscraping, browser automation & hosting.
 - Here you'll find my personal coding projects as I add to my portfolio!
 - Always up for collaborating with others!
+- Contact me at kormir.dev@gmail.com
 
 ## Languages, Tools & Technologies
 
