@@ -9,7 +9,7 @@ I’m a Junior Full Stack Software Developer with a keen interest in back-end te
 
 ## Languages, Tools & Technologies
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,js,git,react,nodejs,nextjs,express,postgres,sqlite)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,npm,express,postgres,sqlite,git,github,postman,supabase,vscode)](https://skillicons.dev)
 
 
 
