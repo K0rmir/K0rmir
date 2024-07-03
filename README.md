@@ -2,7 +2,7 @@
 I’m a Junior Full Stack Software Developer with a keen interest in data, API's & back-end technologies. 
 ## About Me
 - I'm a career switcher, leaving behind a successful 5 year career in Paid Digital Marketing to pursue my long standing interest in coding & software development.
-- I’m currently exploring; Webscraping, browser automation & hosting.
+- I’m currently building out my own API, [boardapi](https://github.com/K0rmir/boardgameapi)!
 - Here you'll find my personal coding projects as I add to my portfolio!
 - Always up for collaborating with others!
 - Contact me at kormir.dev@gmail.com
