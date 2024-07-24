@@ -9,7 +9,7 @@ I’m a Junior Full Stack Software Developer with a keen interest in data, API's
 
 ## Languages, Tools & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,npm,express,postgres,sqlite,git,github,postman,supabase,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,npm,express,postgres,sqlite,git,github,postman,supabase,vscode&perline=16)](https://skillicons.dev)
 
 
 
